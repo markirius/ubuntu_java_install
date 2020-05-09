@@ -10,8 +10,8 @@
 
 1. Made nautilus ask for script execution / Faça o nautilus perguntar pela execução de scripts
 
-* Go to preferences / Vá para preferências
-![](imgs/1.png)
+  * Go to preferences / Vá para preferências
+  ![](imgs/1.png)
 
 * On behavior check "ask each time" / Em comportamento marque "perguntar o que fazer"
 ![](imgs/2.png)
