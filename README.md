@@ -10,7 +10,7 @@
 
 1. Made nautilus ask for script execution / Faça o nautilus perguntar pela execução de scripts
 
-* Go to preferences / Vá para preferências:
+* Go to preferences / Vá para preferências
 ![](imgs/1.png)
 
 * On behavior check "ask each time" / Em comportamento marque "perguntar o que fazer"
@@ -22,10 +22,10 @@
 
 2. Mark your downloaded file as executable / Maque seu arquivo baixado como executável:
 
-  * Right-click above "ubuntu_java_install.sh", go to properties / Clique com o botão direto sobre "ubuntu_java_install.sh", vá para propriedades
+* Right-click above "ubuntu_java_install.sh", go to properties / Clique com o botão direto sobre "ubuntu_java_install.sh", vá para propriedades
 ![](imgs/5.png)
 
-  * Mark execute to allow the the file to execute as a program / Maque executar para permitir a execução do arquivo como um programa:
+* Mark execute to allow the the file to execute as a program / Maque executar para permitir a execução do arquivo como um programa:
 ![](imgs/4.png)
 
 
