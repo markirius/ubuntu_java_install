@@ -5,7 +5,7 @@
 # This is a script to install Oracle's java 14 on Ubuntu
 
 # Download:
-u<a id="raw-url" href="https://raw.githubusercontent.com/markirius/ubuntu_java_install/master/ubuntu_java_install.sh">Download Java Installer</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/markirius/ubuntu_java_install/master/ubuntu_java_install.sh">Download Java Installer</a>
 
 se mouse right-click... "save link as..."
 
