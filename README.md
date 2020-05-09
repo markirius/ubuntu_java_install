@@ -34,10 +34,15 @@ use mouse right-click... "save link as..." / use o clique direito do mouse... "s
 
 
 Follow the steps (user password will be required for use in apt) of script and wait the complete install message.
+
 Maybe this script works on linuxmint the common edition, debian based will not work.
+
 I hope this helps you!
 
 
+
 Talvez este script funcione no linuxmint a versão padrão, a baseada em debian não funcionará.
+
 Siga os passos (sua senha de usuário será requerida para uso no apt) do script e espere a mensagem de instalação concluída.
+
 Espero que isto te ajude!
