@@ -33,6 +33,9 @@ use mouse right-click... "save link as..." / use o clique direito do mouse... "s
 ![](imgs/4.png)
 
 
+After all that... double click (like a Windows user) on ubuntu_java_install.sh and the install will start / Depois disto tudo... dê um clique duplo (como um usuário Windows) no ubuntu_java_install.sh e a instalação vai começar
+
+
 Follow the steps (user password will be required for use in apt) of script and wait the complete install message...
 Maybe this script works on linuxmint the common edition, debian based will not work...
 I hope this helps you!
