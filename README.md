@@ -38,9 +38,4 @@ Maybe this script works on linuxmint the common edition, debian based will not w
 I hope this helps you!
 
 
-
-Talvez este script funcione no linuxmint a versão padrão, a baseada em debian não funcionará.
-
-Siga os passos (sua senha de usuário será requerida para uso no apt) do script e espere a mensagem de instalação concluída.
-
-Espero que isto te ajude!
+Siga os passos (sua senha de usuário será requerida para uso no apt) do script e espere a mensagem de instalação concluída... Talvez este script funcione no linuxmint a versão padrão, a baseada em debian não funcionará... Espero que isto te ajude!
