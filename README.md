@@ -23,10 +23,12 @@ Isto é um script para instalar o java 14 da Oracle no Ubuntu
 
 2. Mark your downloaded file as executable / Maque seu arquivo baixado como executável:
 
-* Right-click above "ubuntu_java_install.sh", go to properties / Clique com o botão direto sobre "ubuntu_java_install.sh", vá para propriedades
+  * Right-click above "ubuntu_java_install.sh", go to properties / Clique com o botão direto sobre "ubuntu_java_install.sh", vá para propriedades
+
 ![](imgs/5.png)
 
-* Mark execute to allow the the file to execute as a program / Maque executar para permitir a execução do arquivo como um programa:
+  * Mark execute to allow the the file to execute as a program / Maque executar para permitir a execução do arquivo como um programa:
+
 ![](imgs/4.png)
 
 
