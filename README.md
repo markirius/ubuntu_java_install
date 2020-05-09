@@ -10,13 +10,13 @@
 
 1. Made nautilus ask for script execution / Faça o nautilus perguntar pela execução de scripts
 
-  * Go to preferences / Vá para preferências:
+* Go to preferences / Vá para preferências:
 ![](imgs/1.png)
 
-	* On behavior check "ask each time" / Em comportamento marque "perguntar o que fazer"
+* On behavior check "ask each time" / Em comportamento marque "perguntar o que fazer"
 ![](imgs/2.png)
 
-  * Now nautilus will ask for execution if file has marked as executable / Agora o nautilus irá perguntar pela execução se o arquivo for marcado como executável
+* Now nautilus will ask for execution if file has marked as executable / Agora o nautilus irá perguntar pela execução se o arquivo for marcado como executável
 ![](imgs/3.png)
 
 
