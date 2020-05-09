@@ -1,10 +1,11 @@
-# This is a script to install Oracle's java 14 on Ubuntu
-Isto é um script para instalar o java 14 da Oracle no Ubuntu
+# This is a script to install Oracle's java 14 on Ubuntu / Isto é um script para instalar o java 14 da Oracle no Ubuntu
 
 # Download / Baixar:
 <a id="raw-url" href="https://raw.githubusercontent.com/markirius/ubuntu_java_install/master/ubuntu_java_install.sh">Download Java Installer</a>
 
-# Steps / Passos:
+use mouse right-click... "save link as..." / use o clique direito do mouse... "salvar link como..."
+
+# Steps / Passos (based on Ubuntu 20.04 / baseado no Ubuntu 20.04):
 
 1. Made nautilus ask for script execution / Faça o nautilus perguntar pela execução de scripts
 
