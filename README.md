@@ -33,10 +33,15 @@ use mouse right-click... "save link as..." / use o clique direito do mouse... "s
 ![](imgs/4.png)
 
 
-follow the steps (user password will be required for use in apt) of script and wait the complete install message / siga os passos (sua senha de usuário será requerida para uso no apt) do script e espere a mensagem de instalação concluída.
+follow the steps (user password will be required for use in apt) of script and wait the complete install message.
 
 Maybe this script works on linuxmint the common edition, debian based will not work.
-Talvez este script funcione no linuxmint a versão padrão, a baseada em debian não funcionará.
 
 I hope this helps you!
+
+
+Talvez este script funcione no linuxmint a versão padrão, a baseada em debian não funcionará.
+
+siga os passos (sua senha de usuário será requerida para uso no apt) do script e espere a mensagem de instalação concluída.
+
 Espero que isto te ajude!
