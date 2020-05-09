@@ -33,10 +33,8 @@ use mouse right-click... "save link as..." / use o clique direito do mouse... "s
 ![](imgs/4.png)
 
 
-Follow the steps (user password will be required for use in apt) of script and wait the complete install message.
-
-Maybe this script works on linuxmint the common edition, debian based will not work.
-
+Follow the steps (user password will be required for use in apt) of script and wait the complete install message...
+Maybe this script works on linuxmint the common edition, debian based will not work...
 I hope this helps you!
 
 
