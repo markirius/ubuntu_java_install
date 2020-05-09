@@ -9,7 +9,7 @@
 
 se mouse right-click... "save link as..."
 
-# Steps / Passos (based on Ubuntu 20.04 / baseado no Ubuntu 20.04):
+# Steps (based on Ubuntu 20.04):
 
 1. Made nautilus ask for script execution.
 
