@@ -7,7 +7,7 @@
 # Download:
 <a id="raw-url" href="https://raw.githubusercontent.com/markirius/ubuntu_java_install/master/ubuntu_java_install.sh">Download Java Installer</a>
 
-se mouse right-click... "save link as..."
+use mouse right-click... "save link as..."
 
 # Steps (based on Ubuntu 20.04):
 
